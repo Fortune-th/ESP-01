@@ -1,0 +1,14 @@
+{
+    "name": "esp8266-at-full",
+    "version": "0.0.1",
+    "description": "Extension สำหรับควบคุม ESP8266 ด้วย AT Command แบบครบทุกคำสั่ง",
+    "dependencies": {},
+    "files": [
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "icon": "\uf1eb",
+    "preferredEditor": "ts"
+}
